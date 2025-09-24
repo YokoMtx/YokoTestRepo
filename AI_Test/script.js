@@ -160,7 +160,8 @@ function checkGameOver() {
             winner = '黒の勝ち！';
         } else if (whiteScore > blackScore) {
             winner = '白の勝ち！';
-        } else {
+        }
+        else {
             winner = '引き分け！';
         }
         alert('ゲーム終了！ ' + winner);

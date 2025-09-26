@@ -13,6 +13,7 @@ let currentPlayer = BLACK;
 let blackScore = 0;
 let whiteScore = 0;
 
+// Added a comment to trigger a change for GitHub Actions test
 const directions = [
     [-1, -1], [-1, 0], [-1, 1],
     [0, -1],           [0, 1],

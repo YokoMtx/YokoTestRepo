@@ -1,3 +1,4 @@
+// This is a test comment for GitHub Actions workflow.
 const boardElement = document.getElementById('board');
 const currentPlayerElement = document.getElementById('current-player');
 const blackScoreElement = document.getElementById('black-score');
